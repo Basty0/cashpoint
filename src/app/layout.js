@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "My Next.js App",
-  description: "A custom Next.js application",
+  title: "Cash-Point Manager",
+  description: "Cash-Point Manager",
 };
 
 export default function RootLayout({ children }) {
